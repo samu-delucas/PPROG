@@ -1,16 +1,7 @@
 Para compilar: make
 ./exe
 
-Al principio carga un gráfico. Hay que ajustar el tamaño de fuente de la terminal.
-Después carga texto, hay que pulsar la tecla de espacio para que cargue el resto.
-Finalmente, pulsar 1,2,3,4, o 5 
-
-
-
-
-
-
-ERROR 404 – NOMBRE DEL JUEGO
+## ERROR 404 – THE VILLAGE'S STRANGE CASE
 
 ### Introducción al juego:
 La aventura comienza con el asesinato de la hija del alcalde del pueblo Castronegro. Tu papel será
