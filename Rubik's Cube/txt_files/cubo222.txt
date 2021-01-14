@@ -1,0 +1,62 @@
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                              
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                              
+                                                                                                                                               
+                                                                                                                                              
+
+                                                     e     e                                                             ^  ^                         
+                                                e          e                                                             ^      ^                     
+                                             e             e                                                             ^           ^               
+                                      g     ge             e                                                             ^           ^\ \              
+                                 g          ge             e                                                             ^           ^\     \          
+                            g               ge             e                                                             ^           ^\         \      
+                            g               ge             e                                                             ^           ^\            \   
+                            g               ge             e                                                             ^           ^\            \ 
+                            g               ge           e                                                                ^          ^\            \ 
+                            g               ge       e  k  k                          A     A                            d d ^       ^\            \ 
+                            g               ge   e  k      k                     A              A                        d   d  ^    ^\            \      
+                            g               g   k          k              G   GA                  A                      d      d ^  ^\            \      
+                            g          g    k              k          G         G   A          A    C        C           d         d    \          \      
+                            g      g  m    mk              k       G                G A     A   C                C       d           d      \      \      
+                                  m        mk              k    G                  G          C                   C      d           db    b   \   \      
+                            m              mk              kJ    J  G          G   I          I   C              CU   U  d           db       b           
+                            m              mk              kJ        J G   G   I                 I    C     C   U     U  d           db          b     
+                            m              mk             k J           J  I                        I       U         U  d           db            b   
+                            m              mk         k     J           JL   L  I              I  S    SU             U      d       db            b   
+                            m              mk     k         J           JL       L  I     I  S         SU             U         d    db            b   
+                            m              m                J           JL           L   S             SU             U           d  db            b   
+                            m            m                  J           JL            LS               SU             U                b           b   
+                            m        m                      J           JL            LS               SU             U                   b        b   
+                            m    m                              J       JL            LS               SU             U                      b     b   
+                                                            P  P  J     JL            LS               SU        U                                    
+                                                            P      P     L            LS               SU   U   [     [                               
+                                                            P           P  L          LS               S   [          [                               
+                                                            P           PR R   L      LS           S    [             [                               
+                                                            P           PR     R   L  LS     S   Y     Y[             [                                
+                                                            P           PR         R        Y          Y[             [                                
+                                                            P           PR            RY               Y[             [                                
+                                                            P           PR            RY               Y[             [                                
+                                                             P          PR            RY               Y[             [                                
+                                                                P       PR            RY               Y[           [                                  
+                                                                   P    PR            RY               Y[       [                                      
+                                                                     P  PR            RY               Y[   [                                          
+                                                                           R          RY               Y                                               
+                                                                               R      RY          Y                                                    
+                                                                                  R   RY      Y                                                        
+                                                                                                                                                       
+                                                                                      n     n                                                          
+                                                                                 n              n                                                      
+                                                                                n                 n                                                    
+                                                                      t         t   n          n    p        p                                         
+                                                                   t                t n     n   p                p                                     
+                                                                t                  t          p                    p                                    
+                                                                    t          t   v          v   p              p                                     
+                                                                       t   t   v                 v    p     p                                          
+                                                                           v                        v                                                  
+                                                                                v              v                                                       
+                                                                                    v     v                                                            
+                                                                                                                                                

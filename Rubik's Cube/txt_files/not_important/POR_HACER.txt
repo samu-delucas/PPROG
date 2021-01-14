@@ -1,0 +1,13 @@
+
+8. COMPILA BIEN ???? problrma con initial de terminal_funct
+
+10. Cargar juego SDL --> da error ?????
+
+11. Ruta de txt/font en SDL
+
+12. Conseguir que la ventana de sdl se unmovable
+
+13. Parar la ejecución de alguna manera?
+
+15. Hacer que el counter no se inicie con cualquier tecla
+

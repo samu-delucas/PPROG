@@ -1,0 +1,87 @@
+
+  c=c_init(); //inicializar cubo resuelto
+  if(!c) return 1;
+
+  colour_stickers(c,s)//copiar distribución del cubo al array de stickers
+
+  c_print(stdout, s);//imprimir el cubo en la terminal
+
+  while(TRUE){
+        recibir string- //recibimos el comando de los movimientos
+            si la string="q"->>terminar while (break)
+
+        c_moves(c,string); //ejecutar los movimientos recibidos
+        colour_stickers(c,s) //copiar distribución del cubo al array de stickers
+        c_print(stdout, s);//imprimir el cubo en la terminal
+  }
+  fin
+  
+
+
+tamañp letras:
+  ancho x largo: 9x9 (8)
+
+
+
+
+  Status print_letter(char *filename, rect *r){
+
+    int line, column, incr = 1, c,next,color=7;
+    FILE *pf;
+    Bool flag;
+
+    if (!filename || !r)
+        return ERROR;
+
+    if (!(pf = fopen(filename, "r")))
+        return ERROR;
+
+    line = r->line;
+    column = r->column;
+
+    rect_clear(r);
+
+    positionate_cursor(line,column);
+
+    do{
+        c = fgetc(pf);
+        if (feof(pf))
+            break;
+
+        if (c == '\n'){ /*new line read --> update cursor position*/
+            positionate_cursor(line + incr, column);
+            incr++;
+            continue;
+        }
+
+        if(c!=' ' && c!='.' && incr!=1){ /*Chars to be ignored while painting*/
+            printf("%c[;;%im", 27, color);
+            do{
+                c = fgetc(pf);
+                if (feof(pf)){
+                    flag = TRUE;
+                    break;
+                }
+
+                if (c != ' ' && c != '.'){
+                    printf("%c[0m", 27); /*Reset colors*/
+                    break;
+                }
+
+                printf(" ");
+
+            }while(1);
+        }
+
+  
+
+    printf( "%c", c);
+
+    
+
+    } while (1);
+
+    fclose(pf);
+    printf("%c[0m", 27);
+    return OK;
+}
