@@ -1,0 +1,3 @@
+Se que una de estas tres personas no es el paciente 0 ALVARO, EDU o MIGUEL.
+Se que una de estas tres personas no es el paciente 0 MIGUEL, JAVI o ALVARO.
+Se que una de estas tres personas no es el paciente 0 EDU, GIMILLO o MIGUEL. 

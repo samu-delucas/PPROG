@@ -1,0 +1,1 @@
+%s, %s y %s.%cA uno le gusta EDAT, a otro le gusta CIREL y otro le gusta AALG.%cAl que le gusta CIREL, el más bajo de los tres, es soltero.%c%s, que es suegro de %s, es más alto que al que le gusta EDAT.%cAl que le gusta CIREL no es el paciente 0.

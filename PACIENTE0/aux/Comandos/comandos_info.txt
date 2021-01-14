@@ -1,0 +1,11 @@
+AGENDA
+SOSPECHOSOS
+COMANDOS
+Puedes moverte hacia * ESTE u * OESTE , o * SUBIR y * BAJAR ;
+Puedes abrir el * MAPA , la * AGENDA y la información de * COMANDOS ;
+En la agenda podrás * TACHAR un sospechoso o * ESCRIBIR un mensaje ;
+También puedes * COGER objetos o * HABLAR con algún sospechosos ;
+Puedes * RESOLVER en la zona de cuarentena cuando completes todas las pruebas ;
+Puedes * SALIR del juego ;
+Ahora podrás * CERRAR este menú ;
+ESTO_VA_AL_FINAL

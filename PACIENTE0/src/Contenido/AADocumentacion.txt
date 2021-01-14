@@ -1,0 +1,7 @@
+Lo importante de esta carpeta:
+
+	start.c : lo importante es la función startGame que llama a las funciones de acertijosPistas.c para preparar con numeros aleatorios que acertijos, pistas, minijuegos (así como que inocente lleva asociado cada uno) y paciente 0 se daran en esa llamada a startGame.
+	
+	acertijosPistas.c :  tiene dos funciones más generales startAcertijos y startPistas que sortean las pistas, acertijos e inocentes (sabiendo cual es el paciente 0) imrpimen los numeros con un orden en start.txt y preparan los ficheros de las pistas y acertijos con las plantillas. Además contiene muchas funciones simples que preparan los ficheros individualmente y una funcion posibleInocente para que no se repitan los sospechosos que deacarta cada prueba.
+	
+	

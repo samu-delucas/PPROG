@@ -1,0 +1,7 @@
+GOYO dice que MIGUEL no es el paciente 0.
+SAMU dice que BERCHO no es el paciente 0.
+EDU dice que DIEGO no es el paciente 0.
+Aquel que diga la verdad te dara el nombre de alguien que no es el paciente 0, los otros dos que mienten te daran nombres al azar que pueden o no ser el paciente 0:
+GOYO dice que SAMU miente
+SAMU dice que EDU miente.
+EDU dice que tanto GOYO como SAMU mienten.

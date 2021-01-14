@@ -1,0 +1,3 @@
+Habitacion: AULA 10
+Por favor, no hagas ruido, estamos en clase.
+Prohibido fumar en el aula.

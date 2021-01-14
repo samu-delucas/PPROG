@@ -1,0 +1,94 @@
+0
+1444
+300
+1
+1
+1
+1
+1
+1
+1
+1
+1
+GOYO
+1
+una mascarilla
+1
+0
+0
+1
+un portatil
+EDU
+1 2 8
+Se que una de estas tres personas no es el paciente 0 DIEGO, ESPALDITA o GOYO.
+0
+ALVARO
+2 3 7
+Se que una de estas tres personas no es el paciente 0 GOYO, JAVI o DIEGO.
+0
+GIMILLO
+2 1 2
+Vi que GOYO y EDU estaban esperando para entrar a la revision de AALG.
+0
+MIGUEL
+-1 -1 -1
+Se que una de estas tres personas no es el paciente 0 ESPALDITA, EDU o GOYO.
+0
+JAVI
+-1 -1 7
+GIMILLO se quedo dormido y no fue EDAT porque la clase es muy temprano.
+1
+una linterna
+ESPALDITA
+-1 -1 2
+GOYO entro a la revision de AALG y su compañero se fue a la cafeteria a tomarse algo con Santini.
+0
+GOYO
+1 1 1
+El compañero de la unica persona de los sospechosos que acudio a la revision de AALG tenia anticuerpos de antes, por lo que no puede ser el paciente 0.
+1
+una llave
+BERCHO
+2 0 9
+La persona que no vino el martes no puede ser el paciente 0 porque era la unica clase presencial que teniamos esa semana y al no venir no pudo contagiar a nadie.
+0
+DIEGO
+1 5 5
+El martes teniamos una clase de EDAT presencial, pero uno de los sospechosos no vino.
+1
+una mascarilla
+2 7
+JAVI dice que MIGUEL no es el paciente 0.
+ESPALDITA dice que MIGUEL no es el paciente 0.
+EDU dice que GIMILLO no es el paciente 0.
+Aquel que diga la verdad te dara el nombre de alguien que no es el paciente 0, los otros dos que mienten te daran nombres al azar que pueden o no ser el paciente 0:
+JAVI dice que ESPALDITA miente
+ESPALDITA dice que EDU miente.
+EDU dice que tanto JAVI como ESPALDITA mienten.
+1 7
+DIEGO dice que BERCHO es el paciente 0.
+ESPALDITA dice que JAVI es el paciente 0.
+GOYO dice que MIGUEL es el paciente 0.
+De estas tres personas sabemos seguro que:
+Al menos uno miente.
+GOYO nunca miente si no es en colaboracion con DIEGO.
+ESPALDITA nunca miente si no hay nadie más que mienta.
+5 6
+DIEGO, ESPALDITA, MIGUEL y EDU echaron una carrera para ver quien llegaba antes a la EPS. De esa carrera sabemos que:
+EDU llego antes que DIEGO.
+MIGUEL llego antes que DIEGO.
+MIGUEL llego despues que ESPALDITA.
+ESPALDITA llego antes que EDU.
+La persona que llego primero no puede ser el paciente 0.
+1
+EL PACIENTE 0 ES DIEGO
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1

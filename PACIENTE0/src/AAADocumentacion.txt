@@ -1,0 +1,4 @@
+Juego.c: aqui está el main y la función play, es la base del juego
+
+En las carpetas se divide los aspectos que utilizamos en el desarrollo del juego.
+

@@ -1,0 +1,3 @@
+	1. De momento no uso para nada intr.c
+
+	3. Rectangles: uso como base este fichero del juego se Santini, he añadido tres funciones: win_write_borders que imprime los bordes de una pantalla,  win_write_borders4 que imprime los bordes de las cuatro pantallas con un formato específico y win_write_line_sc2 para escribir cadenas de caracteres y que cuando llegue al final de la ventana 2, salte de linea y siga imprimiendo

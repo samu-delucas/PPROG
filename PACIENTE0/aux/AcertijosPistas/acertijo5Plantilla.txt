@@ -1,0 +1,1 @@
+%s, %s, %s y %s echaron una carrera para ver quien llegaba antes a la EPS. De esa carrera sabemos que:%c%s llego antes que %s.%c%s llego antes que %s.%c%s llego despues que %s.%c%s llego antes que %s.%cLa persona que llego primero no puede ser el paciente 0.

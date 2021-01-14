@@ -1,0 +1,1 @@
+%s iba a quedar con sus dos amigos %s y %s para organizarse el proyecto de PPROG.%c%s tuvo que quedar solo con un amigo, porque el otro estaba confinado (por lo que no puede ser el paciente 0).%c%s no pudo quedar con %s para hablar de un increible, alucinante y super epico juego llamado Paciente 0 que estaban haciendo en PPROG por el que sacarian un 10. 

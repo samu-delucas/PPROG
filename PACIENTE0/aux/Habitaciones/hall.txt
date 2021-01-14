@@ -1,0 +1,3 @@
+Habitacion: HALL
+Bienvenido a la Escuela Politécnica Superior de la UAM.
+Por favor, debido a la situación sanitaria actual desinféctese las manos.

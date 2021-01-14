@@ -1,0 +1,2 @@
+menu.c: Ajusta la terminal a su tamaño, despues de que juego.c haya puesto la terminal en modo "juego" al igual que lo ponia Santini en su juego, va mostrando la portada, los menus y el tutorial. Interactua con el usuario para así luego devolver la opcion escogida por el usuario: jugar, cargar una partida o salir.
+

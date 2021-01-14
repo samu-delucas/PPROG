@@ -1,0 +1,68 @@
+# General interface data
+#
+25   # rows of the interface (total)
+98   # columns of the interface
+60   # size of the playing field
+#
+#  Data about the clock and the time limit
+#
+#
+2    # Clock row inside the interface window
+1    # Clock column inside the interface window
+60   # Duration of the game in seconds
+Tiempo restante:  # The caption to be displayed on top of the clock
+#
+#
+# Data about the score board
+#
+Puntuacion:   # score caption
+1             # caption row inside the window
+1             # caption column inside the window
+1             # score row inside the window
+13            # score column inside the window
+#
+#
+# Data for the game in general
+#
+O             # character that identifies the head of the snake
+X             # character that idnetifies the body of the snake
+10            # initial size of the snake
+2             # initial direction of the snake
+10            # initial player position -- row number
+13            # initial player position -- column number
+%             # character that identifies the pellets
+03            # number of pellets on screen
+10            # number of points per pellet
+#
+#
+# Data for the game board
+#
+23           # Rows of the game board
+58           # Columns of the game board
+#
+# Game board
+#         1         2         3         4         5         
+#12345678901234567890123456789012345678901234567890123456789
+===========================================================# 0
+|                 |                                       |# 1
+|                 |                                       |# 2
+|                 |                                       |# 3
+|                 |                                       |# 4
+|                 |                                       |# 5
+|                 +------                                 |# 6
+|                                                         |# 7
+|                                                         |# 8
+|                                                         |# 9
+|                                       +-----------------|# 10
+|                                       |                 |# 11
+|                                       |                 |# 12
+|                                                         |# 13
+|                    +---                                 |# 14
+|                    |                                    |# 15
+|                    |        ------+                     |# 16
+|                    |              |                     |# 17
+|                    |              |                     |# 18
+|                    |              |                     |# 19
+|                    |              |                     |# 20
+|                    |              |                     |# 21
+==========================================================|# 22

@@ -1,0 +1,112 @@
+15
+[ABRIR_LA_AGENDA]
+AGENDA
+agenda_cmd
+0
+[CERRAR_MAPA_O_AGENDA]
+CERRAR
+cerrar_cmd
+0
+[ESCRIBIR_EN_LA_AGENDA]
+ESCRIBIR
+escribir_cmd
+1
+Necesitas abrir la agenda para escribir
+[TACHAR_SOSPECHOSO_DE_LA_AGENDA]
+TACHAR
+tachar_cmd
+2
+No existe una persona de nombre *
+Necesitas abrir la agenda para tachar
+[COGER_O_SOLTAR_OBJETO]
+COGER
+coger_cmd
+9
+Deberías guardar el mapa antes
+Deberías guardar la agenda antes
+No había ningún objeto que tomar
+Tomaste el objeto de la habitación y soltaste el que tenías
+Tomaste el objeto de la habitación
+Deberías cerrar la información de comandos
+Santini no te prestará su mascarilla si no es a cambio de un portátil
+Santini te intercambia su mascarilla por el portátil que llevas
+No puedes coger un objeto sin verlo
+[HABLAR_CON_ALGUIEN]
+HABLAR
+hablar_cmd
+5
+Deberías guardar el mapa antes
+Deberías guardar la agenda antes
+Deberías cerrar la información de comandos
+No había nadie con quién hablar
+No puedes hablar sin saber si hay alguien
+[IR_SUBIR]
+SUBIR
+subir_cmd
+5
+Deberías guardar el mapa antes
+Deberías guardar la agenda antes
+No puedes ir en esa dirección
+Has subido de planta
+Deberías cerrar la información de comandos
+[IR_BAJAR]
+BAJAR
+bajar_cmd
+5
+Deberías guardar el mapa antes
+Deberías guardar la agenda antes
+No puedes ir en esa dirección
+Has bajado de planta
+Deberías cerrar la información de comandos
+[IR_ESTE]
+ESTE
+este_cmd
+8
+Deberías guardar el mapa antes
+Deberías guardar la agenda antes
+No puedes ir en esa dirección
+Fuiste hacia el este
+No puedes avanzar sin la llave
+No puedes avanzar sin una mascarilla
+Deberías cerrar la información de comandos
+Has abierto la puerta del despacho de Santini. Dejas la llave en la cerradura.
+[IR_OESTE]
+OESTE
+oeste_cmd
+5
+Deberías guardar el mapa antes
+Deberías guardar la agenda antes
+No puedes ir en esa dirección
+Fuiste hacia el oeste
+Deberías cerrar la información de comandos
+[MOSTRAR_MAPA]
+MAPA
+mapa_cmd
+0
+[RESOLVER_JUEGO]
+RESOLVER
+resolver_cmd
+8
+Deberías guardar el mapa antes
+Deberías guardar la agenda antes
+Deberías cerrar la información de comandos
+Aun no tienes todas las pruebas completadas, vuelve mas adelante
+¡¡¡Enhorabuena, has logrado encontrar al paciente 0!!!
+No has acertado el nombre :(
+Introduce el nombre del paciente 0
+No puedes RESOLVER en esta habitacion
+[SALIR_DEL_JUEGO]
+SALIR
+salir_cmd
+2
+¿Seguro que quieres salir del juego? s/n
+Elige una ranura de guardado (1,2,3) o pulsa otra tecla para no guardar
+[INFO_COMANDOS]
+COMANDOS
+comandos_info_cmd
+0
+[COMANDO_ESPECIAL_DE_ERROR]
+ERROR
+error_cmd
+1
+* no servirá de nada

@@ -1,0 +1,112 @@
+Utilizar fin_de_página en mayúsculas para indicar el fin de una página o el fin de la sección comentada
+Acabar cada línea con ;
+OBLIGATORIO indicar sección IZQ_ARRIBA, DCHA_ARRIBA, IZQ_ABAJO o DCHA_ABAJO para elegir la pantalla de impresión
+Después de finalizar la escritura de texto en una pantalla, escribir FIN_DE_PANTALLA
+OBLIGATORIO indicar al principio el número de página siguiendo el modelo [PÁGINA_X]
+FIN_DE_PAGINA
+[PÁGINA_0]
+IZQ_ABAJO
+¡Bienvenido a la EPS, Epicentro de Pandemia Severa! ;
+Has sido contratado para investigar el brote local de coronavirus. ;
+Deberás investigar hasta descubrir qué estudiante fue el paciente 0. ;
+FIN_DE_PANTALLA
+DCHA_ABAJO
+Aquí verás el tiempo restante ;
+y tu puntuación ;
+¡Te estaremos observando! ;
+FIN_DE_PANTALLA
+DCHA_ARRIBA
+Te será útil detenerte un poco ;
+en cada habitación ;
+;
+Observa la información que ;
+aquí se te presente ;
+FIN_DE_PANTALLA
+FIN_DE_PAGINA
+[PÁGINA_1]
+IZQ_ABAJO
+Cortesía de la universidad, podrás hacer uso de este * MAPA para conocer tu ubicación actual ;
+Bueno, y supongo que sabrás que puedes dirigirte al * ESTE , al * OESTE y * SUBIR o * BAJAR escaleras ; 
+
+FIN_DE_PANTALLA
+FIN_DE_PAGINA
+[PÁGINA_2]
+DCHA_ARRIBA
+Aquí aparecerá el nombre ;
+del sospechoso que se encuentre ;
+en la habitación actual ;
+FIN_DE_PANTALLA
+IZQ_ARRIBA
+* ACERTIJO * DE * EJEMPLO ;
+;
+La adicción a contar acertijos hace que no puedas mentir ni ser contagiado por ningún virus ;
+Por el contrario, aquellos no adictos a contar acertijos siempre mentirán y podrán ; ser infectados ;
+;
+    * GOYO: DIEGO es adicto a contar acertijos ;
+    * DIEGO: GOYO no es adicto a contar acertijos ;
+    * BERCHO: Yo nunca he presentado adicción a contar acertijos ;
+;
+Un adicto a contar acertijos que pasaba te dijo que no podrás averiguar si alguno de los tres ;
+tiene ese tipo de adicción ;
+FIN_DE_PANTALLA
+IZQ_ABAJO
+También deberás saber que será útil * HABLAR con cada estudiante, para interrogarlo ;
+Todos ellos te contarán algo de relevancia para el caso ;
+No obstante, ¡ten cuidado! ;
+Algunos estudiantes que aprobaron EDyL el año pasado no han podido dejar de hablar mediante ;
+acertijos como el de arriba desde entonces. ;
+Cuando lo sepas, ¡diles el nombre de aquel que no es el paciente 0 en su acertijo! ;
+FIN_DE_PANTALLA
+FIN_DE_PAGINA
+[PÁGINA_3]
+IZQ_ABAJO
+Y otros estudiantes te pedirán que les pases niveles difíciles de algún minijuego ;
+Aparentemente, están bastante de moda los minijuegos que se controlan mediante las flechas del ;
+teclado ;
+FIN_DE_PANTALLA
+FIN_DE_PAGINA
+[PÁGINA_4]
+IZQ_ARRIBA 
+* SOSPECHOSOS * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * MENSAJES 
+* ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` * ` ; ;
+DIEGO ;
+BERCHO ;
+JAVI ;
+GOYO ;
+GIMILLO  ;
+ESPALDITA  ;
+ALVARO ;
+SAMU ;
+MIGUEL  ;
+EDU ;
+FIN_DE_PANTALLA
+IZQ_ABAJO
+¿Te parece difícil recordar los datos que recojas durante los interrogatorios? ; 
+Entonces, quizá te resulte útil hacer uso de esta * AGENDA ;
+;
+En ella podrás * ESCRIBIR la información que te aporten los sospechosos ;
+También puedes * TACHAR aquellas personas que creas que no son el paciente 0 ;
+(Lista de sospechosos incluída) ;
+FIN_DE_PANTALLA
+FIN_DE_PAGINA
+[PÁGINA_4]
+IZQ_ABAJO
+Tal vez en ocasiones debas * COGER objetos tirados por alguna habitación ;
+Solo puedes sostener uno al mismo tiempo, así que deberás soltar uno si quieres llevarte otro ; 
+¡Y no te preocupes por su dueño, EPS significa Estudiantado sin Propiedades y Solidario! ;
+FIN_DE_PANTALLA
+DCHA_ARRIBA
+Aquí aparecerán los objetos ;
+a coger ;
+¡Mira bien! ;
+FIN_DE_PANTALLA
+FIN_DE_PAGINA
+[PÁGINA_5]
+IZQ_ABAJO
+Cuando creas haber averiguado el nombre del paciente 0, ve a la habitación de cuarentena, ;
+listo para * RESOLVER ;
+Y si aún tienes dudas, toma la guía * COMANDOS . ;
+;
+¡Y ahora no pierdas más tiempo! ¡Adelante, encuentra al Paciente 0! ;
+FIN_DE_PANTALLA
+FIN_DE_PAGINA

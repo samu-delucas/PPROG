@@ -1,0 +1,1 @@
+Se que una de estas tres personas no es el paciente 0 %s, %s o %s.%cSe que una de estas tres personas no es el paciente 0 %s, %s o %s.%cSe que una de estas tres personas no es el paciente 0 %s, %s o %s. 

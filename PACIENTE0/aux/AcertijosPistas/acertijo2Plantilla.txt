@@ -1,0 +1,1 @@
+%s dice que %s no es el paciente 0.%c%s dice que %s no es el paciente 0.%c%s dice que %s no es el paciente 0.%cAquel que diga la verdad te dara el nombre de alguien que no es el paciente 0, los otros dos que mienten te daran nombres al azar que pueden o no ser el paciente 0:%c%s dice que %s miente%c%s dice que %s miente.%c%s dice que tanto %s como %s mienten.

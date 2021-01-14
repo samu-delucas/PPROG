@@ -1,0 +1,3 @@
+Habitacion: LABORATORIO 07
+Al fondo hay varios alumnos jugando al juego del momento, Paciente 0.
+Cuida los equipos, gracias.

@@ -1,0 +1,1 @@
+%s y %s son compañeros de practicas de Cirel, en concreto son la pareja 5.%cEn la ultima sesion de laboratorio de Cirel falto la pareja 5 porque un integrante estuvo en la UAM en cuarentena, por lo que no pudo ser el paciente 0.%cDespues de la ultima sesion de laboratorio de Cirel me fui con %s al cesped de filosofia. 

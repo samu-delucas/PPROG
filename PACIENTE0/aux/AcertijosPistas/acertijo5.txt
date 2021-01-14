@@ -1,0 +1,6 @@
+GOYO, GIMILLO, DIEGO y MIGUEL echaron una carrera para ver quien llegaba antes a la EPS. De esa carrera sabemos que:
+MIGUEL llego antes que GOYO.
+DIEGO llego antes que GOYO.
+DIEGO llego despues que GIMILLO.
+GIMILLO llego antes que MIGUEL.
+La persona que llego primero no puede ser el paciente 0.

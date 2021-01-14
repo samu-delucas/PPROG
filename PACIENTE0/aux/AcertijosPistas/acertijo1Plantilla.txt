@@ -1,0 +1,1 @@
+%s dice que %s es el paciente 0.%c%s dice que %s es el paciente 0.%c%s dice que %s es el paciente 0.%cDe estas tres personas sabemos seguro que:%cAl menos uno miente.%c%s nunca miente si no es en colaboracion con %s.%c%s nunca miente si no hay nadie más que mienta.

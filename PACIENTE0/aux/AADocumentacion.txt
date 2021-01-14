@@ -1,0 +1,8 @@
+    slots: carpeta donde estan los ficheros donde se guardan los datos de las partidas que se pueden cargar.
+
+    plantillas: en esta carpeta estan las plantillas de la portada y los menus.
+
+	start.txt :  se imprime en la primera linea el paciente 0, en las tres siguientes lineas el numero de acertijo que ha tocado seguido del sospechosos que descarta cada acertijo, en las tres siguientes lo mismo con los minijuegos y en las tres ultimas lo mismo con las pistas.
+	
+	AcertijosPistas-->().txt :  hay plantillas con los acertijos y pistas preparadas para las funciones de acertijosPistas.c y otros para guardar las pistas y acertijos ya listos para usar. 
+

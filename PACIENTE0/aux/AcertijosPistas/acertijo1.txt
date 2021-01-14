@@ -1,0 +1,7 @@
+GOYO dice que ALVARO es el paciente 0.
+GIMILLO dice que ALVARO es el paciente 0.
+MIGUEL dice que JAVI es el paciente 0.
+De estas tres personas sabemos seguro que:
+Al menos uno miente.
+MIGUEL nunca miente si no es en colaboracion con GOYO.
+GIMILLO nunca miente si no hay nadie más que mienta.

@@ -1,0 +1,5 @@
+JAVI, MIGUEL y GIMILLO.
+A uno le gusta EDAT, a otro le gusta CIREL y otro le gusta AALG.
+Al que le gusta CIREL, el más bajo de los tres, es soltero.
+JAVI, que es suegro de MIGUEL, es más alto que al que le gusta EDAT.
+Al que le gusta CIREL no es el paciente 0.

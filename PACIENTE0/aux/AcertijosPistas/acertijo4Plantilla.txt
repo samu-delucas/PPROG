@@ -1,0 +1,1 @@
+%s: Cuando yo digo la verdad, tú también.%c%s: Cuando yo miento, tu también.%c¿Es posible que en esta ocasión uno mienta y el otro no?%cSi no es posible que uno mienta y otro el otro diga la verdad, %s no es el paciente 0.%cSi es posible, %s no es el paciente 0.

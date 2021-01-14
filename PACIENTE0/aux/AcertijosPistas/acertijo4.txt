@@ -1,0 +1,5 @@
+DIEGO: Cuando yo digo la verdad, tú también.
+BERCHO: Cuando yo miento, tu también.
+¿Es posible que en esta ocasión uno mienta y el otro no?
+Si no es posible que uno mienta y otro el otro diga la verdad, SAMU no es el paciente 0.
+Si es posible, GOYO no es el paciente 0.
