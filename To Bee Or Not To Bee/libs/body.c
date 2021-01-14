@@ -15,11 +15,6 @@ struct body
     short tall, fat, angry, hair;
 };
 
-struct cloth
-{
-    short hat, glasses;
-};
-
 status create_body(body **b)
 {
     if (!b)
@@ -92,49 +87,6 @@ void free_body(body **b)
     {
         free(*b);
         *b = NULL;
-    }
-}
-
-status create_cloth(cloth **c)
-{
-    if (!c)
-        return ERROR;
-    if (!(*c = (cloth *)malloc(sizeof(cloth))))
-        return ERROR;
-    return OK;
-}
-
-status set_cloth(cloth *c, short hat, short glasses)
-{
-    if (!c || hat < 0 || glasses < 0)
-        return ERROR;
-    c->hat = hat;
-    c->glasses = glasses;
-    return OK;
-}
-
-short get_cloth_hat(cloth *c)
-{
-    if (!c)
-        return -1;
-    return c->hat;
-}
-
-short get_cloth_glasses(cloth *c)
-{
-    if (!c)
-        return -1;
-    return c->glasses;
-}
-
-void free_cloth(cloth **c)
-{
-    if (!c)
-        return;
-    if (*c)
-    {
-        free(*c);
-        *c = NULL;
     }
 }
 

@@ -21,7 +21,6 @@
 #include "types.h"
 
 typedef struct body body;
-typedef struct cloth cloth;
 
 typedef struct beestruct{
     section *sec;
@@ -74,32 +73,6 @@ short get_body_wings(body *b);
 /** @brief      Frees the body
  *  @param f1   Address of pointer of body*/
 void free_body(body **b);
-
-/** @brief      Creates a cloth
- *  @param f1   Address of a pointer of type cloth
- *  @return     Returns ERROR in case of error and OK if everything goes well */
-status create_cloth(cloth **c);
-
-/** @brief      Sets the body's parameters
- *  @param f1   Pointer of body
- *  @param f2   Hat style of the bee (0-2)
- *  @param f3   Glasses style of the bee (0-2)
- *  @return     Returns ERROR in case of error and OK if everything goes well */
-status set_cloth(cloth *c, short hat, short glasses);
-
-/** @brief      Gets hat style of cloths
- *  @param f1   Pointer of cloth
- *  @return     Returns -1 in case of error. Otherwise, it returns hat parameter */
-short get_cloth_hat(cloth *c);
-
-/** @brief      Gets glasses style of cloths
- *  @param f1   Pointer of cloth
- *  @return     Returns -1 in case of error. Otherwise, it returns glasses parameter */
-short get_cloth_glasses(cloth *c);
-
-/** @brief      Frees the cloth
- *  @param f1   Address of pointer of cloth*/
-void free_cloth(cloth **c);
 
 /** @brief      Draws the bee in a section
  *  @param f1   Pointer of section
