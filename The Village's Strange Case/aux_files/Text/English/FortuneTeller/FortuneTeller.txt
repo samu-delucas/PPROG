@@ -1,0 +1,5 @@
+-The crystal ball predicted>you were going to come.>But it didn't tell me you>would be here because of>a murder.<What can I help you with,>inspector X?<
+#How do you know my name?<
+-I know many things, more>than you believe.>But lately I haven't been>able to do any card>readings because of a>problem I've been having.<
+-But you can help me>with it.
+#1. Sorry, but I have no time.>Have a nice day.>>2. What can I help you with?

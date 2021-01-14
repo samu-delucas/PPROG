@@ -1,0 +1,2 @@
+->Do you want to solve this>mistery, inspector?>Remember that you only>have one chance.
+#>1. Yes, I am ready. I think I know the answer.>2. No, I am still searching for clues.

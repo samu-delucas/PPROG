@@ -1,0 +1,1 @@
+$Choose one:>a. Mayor>b. Werewolf>c. Fortune Teller>d. Witch>e. Boyfriend>f. Fool>g. Madame>h. Little girl>i. Priest>j. Best friend>k. Peasant

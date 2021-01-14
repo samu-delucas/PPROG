@@ -1,0 +1,7 @@
+@-I believe that /a and /b are liars.>And /9 is the murder weapon.@
+-You know? That case>you are investigating...>Everybody in the village is> talking about you.>And we are all making>our assumptions.<
+#May I ask what are yours?<
+-I don't like talking>about things I'm not>sure about. But I>do know last night>when I was coming back>home I found a /9>with blood on it.<
+#Do you know anything else?<
+-I should warn you about>the /a>and the /b,>though. They've>always been liars.
+#Thanks for your time. Have a nice day, gentleman.<

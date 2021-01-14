@@ -1,0 +1,1 @@
+$Choose one:>a. Rope>b. Poison>c. Pencil>d. Knife>e. Brick>f. Scythe>g. Axe>h. Hammer>i. Shovel
