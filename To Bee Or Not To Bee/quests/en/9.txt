@@ -1,0 +1,7 @@
+P Minister of Social Affairs
+Q My Queen, there's many families from the slums that have little to eat.
+1 Provide them with our reserves.
+E F-1 C+1 A+0 M+0 Q0
+2 Let them eat cake!
+F F+1 C-2 A+0 M+0 Q0
+

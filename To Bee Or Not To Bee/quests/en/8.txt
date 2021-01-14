@@ -1,0 +1,6 @@
+P Minister of Social Affairs
+Q We'd like to organise a ceremony to honor our fallen bees in the battle against the Eastern Hives.
+1 Yes, it was a great loss for our military. 
+E F+0 C+1 A+0 M-1 Q0
+2 No, we must save up.
+F F+0 C-2 A+0 M+1 Q0

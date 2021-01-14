@@ -1,0 +1,6 @@
+P Criada
+Q Esta mañana me encontré una carta en mi habitación. Me pregunto quién la habrá dejado ahí.
+1 Seguro que es una broma.
+E F+0 C+0 A+0 M+0 Q0
+2 Yo también me lo pregunto.
+F F+0 C+0 A+0 M+0 Q0

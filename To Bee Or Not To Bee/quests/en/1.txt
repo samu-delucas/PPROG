@@ -1,0 +1,6 @@
+P Chief of Investigations
+Q We want to genetically modify pollen seeds to procure tougher flowers for the winter.
+1 Perfect! Start research immediately.
+E F+1 C+0 A+0 M-1 Q2
+2 Doesn't seem very safe.
+F F+0 C+0 A+0 M+1 Q0

@@ -1,0 +1,6 @@
+P Explorer Bee
+Q I bring good news! Our women have found a great food supply, though the journey is tough and dangerous, and people could die trying to reach it.
+1 Go forth with it. I'll find our most capable bees for the job.
+E F+2 C+0 A-1 M-2 Q3
+2 We cannot afford this risk.
+F F-1 C-2 A+0 M+0 Q0

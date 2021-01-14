@@ -1,0 +1,6 @@
+P Minister of Social Affairs
+Q Citizens have been complaining that the Army is overcompensated. Whatever we do, we must take a side.
+1 Redistribute part of the Army's budget.
+E F+0 C+3 A-2 M+0 Q0
+2 Leave it as it is.
+F F+0 C-2 A+2 M-1 Q0

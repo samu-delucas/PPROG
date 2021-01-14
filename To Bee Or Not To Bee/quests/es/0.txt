@@ -1,0 +1,6 @@
+P Criada
+Q Oh, veo que juegas por primera vez. Yo soy la criada, y vendré de vez en cuando a ver si necesitas algo. Para seleccionar tu respuesta utiliza las flechas y la tecla 'ENTER'. Puedes presionar 'Q' en cualquier momento para salir. Mucha suerte!!! 
+1 Allá vamos!
+E F+0 C+0 A+0 M+0 Q0
+2 Entendido!
+F F+0 C+0 A+0 M+0 Q0

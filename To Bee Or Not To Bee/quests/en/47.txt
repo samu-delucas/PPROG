@@ -1,0 +1,6 @@
+P Environmental Advocate
+Q My Queen, to protect our ecosystems we need more money, by raising taxes.
+1 Do it, we need it.
+E F+2 C-2 A-1 M+1 Q0
+2 We can't afford it.
+F F-2 C+2 A+1 M-1 Q0

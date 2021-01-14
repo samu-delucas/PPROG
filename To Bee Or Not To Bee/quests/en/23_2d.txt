@@ -1,0 +1,6 @@
+P Explorer Bee
+Q We've found untapped territory. There's big quantities of silver honey.
+1 We're rich!
+E F+2 C+2 A+2 M+2 Q0
+2 I'm rich!
+F F+0 C+0 A+0 M+6 Q0

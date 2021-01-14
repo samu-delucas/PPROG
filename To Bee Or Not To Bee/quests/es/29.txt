@@ -1,0 +1,6 @@
+P Jefa del Ejército
+Q Mi Reina, una de mis mejores abejas ha sido detenida por conductas... inapropiadas. Confío que podemos llegar a un acuerdo sobre ella...
+1 Todas somos iguales ante la ley
+E F+0 C+2 A-2 M+0 Q0
+2 No podemos permitirnos que el ejército sufra. Acepto.
+F F+0 C-4 A+3 M+3 Q0

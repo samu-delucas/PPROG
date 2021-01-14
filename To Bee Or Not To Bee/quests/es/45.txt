@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q Hemos encontrado una mina de tesoro en el suelo, debajo de un área urbana. La extracción es arriesgada, pero puede sernos útil.
+1 DEmasiado arriesgado.
+E F+0 C+1 A+0 M+0 Q0
+2 Lo apruebo. ¡Que empiecen a excavar!
+F F+0 C-1 A+0 M+0 Q2

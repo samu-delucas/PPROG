@@ -1,0 +1,6 @@
+P Ministra de Economía
+Q Campesinas están de huelga, dicen que están siendo explotadas. O bien se les sube el salario o paran de trabajar.
+1 No podemos ceder ante esto, no podemos permitírnoslo.
+E F+0 C+0 A+0 M+0 Q0
+2 Escúchalas, aumenta sus salarios.
+F F+0 C+0 A+0 M+0 Q0

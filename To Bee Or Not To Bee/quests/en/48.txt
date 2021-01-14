@@ -1,0 +1,6 @@
+P Minister of Finance
+Q We found an unusual stash of money. We could give it to merchants or distribute it for free.
+1 Civilians will be happy that we give it for free.
+E F+0 C+2 A+0 M-2 Q0
+2 The merchants will stimulate the economy.
+F F+0 C-2 A+0 M+2 Q0

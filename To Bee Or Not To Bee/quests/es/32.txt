@@ -1,0 +1,6 @@
+P Criada
+Q ¿Has oído hablar de la UAM, Su Majestad?
+1 ¿Disculpa?
+E F+0 C+0 A+0 M+0 Q0
+2 ¿Te refieres a la mejor universidad de Madrid?
+F F+1 C+1 A+1 M+1 Q0

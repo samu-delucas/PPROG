@@ -1,0 +1,6 @@
+P Explorer Bee
+Q The quest hasn't worked out like expected. We've gotten food, but we've lost many women.
+1 At least we've given our best.
+E F+3 C-0 A-2 M+0 Q0
+2 At least we have food now.
+F F+3 C-0 A-2 M+0 Q0

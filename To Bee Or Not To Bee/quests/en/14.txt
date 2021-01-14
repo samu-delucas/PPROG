@@ -1,0 +1,6 @@
+P Chief of Investigations
+Q An inquiry about our food supply was terminated due to lack of staff. Many of the remaining products don't have a purpose.
+1 Spread out the leftovers to the civilians.
+E F+2 C+2 A+0 M+0 Q0
+2 Sell the leftovers to companies.
+F F+0 C-1 A+0 M+2 Q0

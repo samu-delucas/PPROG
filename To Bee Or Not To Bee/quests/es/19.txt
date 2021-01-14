@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q ¡Traigo buenas noticias! Nuestra patrulla ha encontrado una gran fuente de alimento, pero el viaje es muy duro y peligroso, y podría morir gente intentando llegar.
+1 Vayan a por ello. Les buscaré las mejores abejas para este trabajo.
+E F+2 C+0 A-1 M-2 Q3
+2 No podemos permitirnos ese riesgo.
+F F-1 C-2 A+0 M+0 Q0

@@ -1,0 +1,6 @@
+P Criada
+Q ¡Su Majestad, la extraña abeja desapareció! ¡Su Fortuna es abundante, gracias a Dios!
+1 Valió la pena arriesgarse.
+E F+3 C+3 A+3 M+3 Q0
+2 Fortuna estuvo de mi lado, como debería ser.
+F F+3 C+3 A+3 M+3 Q0

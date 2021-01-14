@@ -1,0 +1,6 @@
+P Consejera Mayor del Reino
+Q Mi Reina, algunas protestas civiles se han tornado violentas. ¿Qué debemos hacer?
+1 Escuchen lo que tienen que decir y trabajen con ello.
+E F+0 C+2 A-2 M+0 Q0
+2 ¡Inaceptable! Mantener el orden es mandatorio.
+F F+0 C-2 A+2 M+0 Q0

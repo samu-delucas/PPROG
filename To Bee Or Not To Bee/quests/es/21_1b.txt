@@ -1,0 +1,6 @@
+P Ministra de Economía
+Q Creemos que investigando el cuerpo de Winnie The Pooh podríamos desarrollar nuevos venenos mas eficientes contra su especie.
+1 Poneos manos a la obra
+E F+0 C-1 A+2 M-2 Q0
+2 No somos tan viles como ellos
+F F+0 C+2 A-1 M+0 Q0

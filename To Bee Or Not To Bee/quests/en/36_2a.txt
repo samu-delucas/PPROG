@@ -1,0 +1,6 @@
+P Head of Security
+Q The defense strategy worked as expected, and so now we must face some minor losses.
+1 I'm glad to have avoided a greater evil.
+E F-1 C+0 A+0 M-1 Q0
+2 I should've fought for greater glory.
+F F-1 C+0 A+0 M-1 Q0

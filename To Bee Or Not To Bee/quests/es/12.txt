@@ -1,0 +1,7 @@
+P Criada
+Q He descubierto que la Jefa de Investigación y uno de los zánganos suelen quedar a solas.
+1 Seguro que están trabajando.
+E F+0 C+0 A+0 M+0 Q0
+2 Está claro que se gustan.
+F F+0 C+0 A+0 M+0 Q0
+

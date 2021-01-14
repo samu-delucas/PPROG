@@ -1,0 +1,6 @@
+P Chief of Investigations
+Q We did it! The modified pollen seeds are a success. I'm positive we'll have less nourishment concerns for the winter.
+1 ¡Eso son fantásticas noticias!
+E F+3 C+1 A+0 M+0 Q0
+2 Genial, te mereces un aumento de sueldo.
+F F+3 C+1 A+0 M-1 Q0 

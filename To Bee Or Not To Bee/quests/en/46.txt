@@ -1,0 +1,6 @@
+P Minister of Finance
+Q Farmers have gone on strike, saying they're being exploited. Either they get a raise or they stop working.
+1 We can't give in to them, we can't afford this.
+E F-2 C-2 A+2 M+2 Q0
+2 Hear them out, raise their wages.
+F F+2 C+2 A-2 M-2 Q0

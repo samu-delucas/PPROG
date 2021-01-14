@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q Una batalla contra las Avispas del Sur puede ser crucial. ¿Mandamos comida para asegurar el bienestar de la Armada?
+1 No podemos permitírnoslo
+E F+1 C+0 A-2 M+0 Q0
+2 Mi Armada lo necesita
+F F-3 C+0 A+4 M+0 Q0

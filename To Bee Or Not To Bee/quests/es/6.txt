@@ -1,0 +1,6 @@
+P Consejera Mayor del Reino
+Q Este año la cosecha no ha sido tan buena, podríamos pedir ayuda a las hormigas.
+1 Hablad con ellas.
+E F+2 C+1 A-1 M-1 Q1
+2 No quiero más deudas.
+F F-2 C-1 A+0 M+2 Q0

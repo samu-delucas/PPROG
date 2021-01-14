@@ -1,0 +1,6 @@
+P Minister Of Social Affairs
+Q There's collectives demanding lower taxes. What should we do?
+1 Not a good idea.
+E F+0 C-2 A+0 M+2 Q0
+2 Everything for my people.
+F F+0 C+2 A+0 M-2 Q0

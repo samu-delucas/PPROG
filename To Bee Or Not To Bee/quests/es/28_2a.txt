@@ -1,0 +1,6 @@
+P Jefa de Investigación
+Q ¡El grupo de abejas que dejamos ir nos dio mucho dinero como regalo por su compasión!
+1 Quedémonos con el dinero
+E F+0 C-1 A+0 M+4 Q0
+2 Inviértelo en reservas de comida
+F F+3 C+1 A+0 M+0 Q0

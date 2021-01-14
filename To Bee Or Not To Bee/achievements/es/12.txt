@@ -1,0 +1,4 @@
+T Batalla:
+D Muere por falta de lealtad a tu Armada 5 veces
+C 0
+Z 5

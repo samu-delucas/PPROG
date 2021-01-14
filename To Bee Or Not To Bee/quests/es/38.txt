@@ -1,0 +1,6 @@
+P Jefa de Ejército
+Q Mi Reina, ¡la diplomacia con las Hormigas del Oeste que tantas pérdidas nos ha causado es imposible! A pesar de las ganancias, es una cuestión de principios.
+1 Entiendo tu frustración, apoyaré a Mi Ejército en esto.
+E F-1 C+0 A+3 M-2 Q0
+2 ¡No! La diplomacia para asegurar la paz es lo primero.
+F F+1 C+0 A-2 M+1 Q0

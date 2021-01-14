@@ -1,0 +1,6 @@
+P Maid
+Q Your Highness, would you say Your Queendom seeks profit overall, or the people's well-being?
+1 Profit, of course.
+E F+0 C-2 A+0 M+2 Q0
+2 The people's well-being, of course.
+F F+0 C+2 A+0 M-2 Q0

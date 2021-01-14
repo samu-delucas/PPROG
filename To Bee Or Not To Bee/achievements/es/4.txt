@@ -1,0 +1,4 @@
+T Experta:
+D Completa 50 partidas
+C 0
+Z 50

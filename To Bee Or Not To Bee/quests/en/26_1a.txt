@@ -1,0 +1,6 @@
+P Maid
+Q The other day's gamble didn't turn out in your favor. Nor even the Queen can escape the whims of Fourtune.
+1 I understood the risk, and so I accept the outcome with grace.
+E F-1 C-1 A-1 M-1 Q0
+2 If I could I would execute Fortune herself. Curses!
+F F-1 C-1 A-1 M-1 Q0

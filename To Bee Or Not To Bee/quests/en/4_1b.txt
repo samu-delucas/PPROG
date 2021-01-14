@@ -1,0 +1,6 @@
+P Head of Security
+Q Alas the bird attack didn't happen, though civilians are still resentful as we only defended the throne room.
+1 Doesn't matter, I'm more valuable.
+E F+0 C-1 A+0 M+0 Q0
+2 I agree, it was a poor decision.
+F F+0 C+1 A+0 M+0 Q0

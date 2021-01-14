@@ -1,0 +1,6 @@
+P Military Chief Sánchez
+Q I'm afraid to give you the bad news, but the plant has already killed a fifth of our researchers. We must take action.
+1 NO... the plant must stay alive. Evacuate the area.
+E F+0 C-4 A-4 M-4 Q0
+2 Do whatever's necessary, even if it's inBEEable. Inhuman like others would say.
+F F+0 C+2 A-2 M-2 Q0

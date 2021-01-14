@@ -1,0 +1,6 @@
+P Explorer Bee
+Q We'rw back from the expedition. It was a resounding success! Now we have plenty of food, and no-one was harmed in the process.
+1 I told you they were my best women.
+E F+4 C+1 A+0 M+0 Q0
+2 Amazing, let's have a feast to celebrate!
+F F+2 C+2 A+0 M-1 Q0

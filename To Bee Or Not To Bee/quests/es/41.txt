@@ -1,0 +1,6 @@
+P Ministra de Economía
+Q Hemos encontrado dinero extra que no tenemos registrado. ¿Qué hacemos con él?
+1 Nos lo quedamos, lo necesitamos.
+E F+0 C-2 A-1 M+3 Q0
+2 Haz buen uso de él.
+F F+0 C+1 A+1 M-2 Q0

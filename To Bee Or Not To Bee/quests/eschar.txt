@@ -1,0 +1,28 @@
+Criada
+0 1 1 0
+Jefa de Investigación
+2 0 1 1
+Jefa de Seguridad
+2 2 1 2
+Ministra de Economía
+1 2 2 3
+Consejera Mayor del Reino
+0 1 1 3
+Ministra de Asuntos Sociales
+1 1 1 1
+Jefa del Ejército
+1 2 1 2
+Protectora del Medio Ambiente
+0 1 0 1
+Abeja Exploradora
+2 0 0 2
+Secretaria Personal
+1 1 1 2
+Jefe de Investigación Díaz
+2 1 0 3
+Dylan
+2 0 2 3
+Jefe del Ejército Sánchez
+2 2 2 4
+Niño Raro
+0 0 0 5

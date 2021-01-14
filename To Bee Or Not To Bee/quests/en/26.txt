@@ -1,0 +1,6 @@
+P Maid
+Q Your Highness, if you'd like you could partake in a really special gamble... who knows what the future might hold! 
+1 I accept. What's power without a bit of fun?
+E F-1 C-1 A-1 M-1 Q2
+2 Tempting, but too risky to do right now.
+F F+0 C+0 A+0 M+0 Q0

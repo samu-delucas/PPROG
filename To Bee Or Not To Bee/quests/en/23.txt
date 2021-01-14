@@ -1,0 +1,6 @@
+P Chief of Investigations Díaz
+Q An experiment in the south of the Queendom has resulted in a mutation of carnivorous plants.
+1 Do some research about it.
+E F+0 C+0 A+0 M+0 Q3
+2 Hide it from the press.
+F F+0 C+0 A-2 M-2 Q10

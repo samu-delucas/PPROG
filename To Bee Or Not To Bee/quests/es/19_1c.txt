@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q Ya estamos de vuelta de nuestra expedición. Ha sido un completo fracaso. No hemos encontrado tanto alimento como pensábamos, y hemos perdido muchas abejas en el viaje.
+1 Tengan más cuidado la próxima vez.
+E F+1 C-2 A-2 M+0 Q0
+2 Al menos hemos conseguido algo de comida.
+F F+1 C-2 A-2 M+0 Q0

@@ -1,0 +1,6 @@
+P Ministra de Economía
+Q Hemos estado trabajando en los presupuestos de este año. Podríamos guardar algo de dinero para imprevistos.
+1 No, consigan armamento con él.
+E F+0 C+0 A+2 M-1 Q0
+2 Sí, puede que nos haga falta.
+F F+0 C+0 A+0 M+2 Q0

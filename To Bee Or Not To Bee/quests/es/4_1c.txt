@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q Hemos hecho balance del ataque de los pájaros. Las defensas funcionaron a la perfección. 
+1 ¡Genial, hagamos un banquete para celebrarlo!
+E F-1 C+1 A+0 M+0 Q0
+2 Enhorabuena por su trabajo.
+F F+0 C+1 A+0 M+0 Q0

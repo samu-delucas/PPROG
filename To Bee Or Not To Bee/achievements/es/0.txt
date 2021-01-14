@@ -1,0 +1,4 @@
+T Título:
+D Descripción
+C Contador
+Z Total

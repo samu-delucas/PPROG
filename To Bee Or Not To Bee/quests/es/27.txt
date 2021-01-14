@@ -1,0 +1,6 @@
+P Ministra de Economía
+Q Se avecinan tiempos difíciles. Las reservas de comida escasean, pero deberíamos ahorrar dinero en caso de emergencias.
+1 Prioriza las reservas de comida.
+E F+2 C+1 A+0 M-2 Q0
+2 Prioriza el dinero.
+F F-3 C+0 A+0 M+3 Q0

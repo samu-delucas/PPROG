@@ -1,0 +1,6 @@
+P Prime Minister of the Queendom
+Q It would be good to build some department stores. People are bored.
+1 Do it.
+E F+0 C+3 A+0 M-1 Q0
+2 Do it, but they have to pay to enter it.
+F F+0 C-1 A+0 M+1 Q0

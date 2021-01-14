@@ -1,0 +1,6 @@
+P Minister of Finance
+Q We've been working through this years' budgets. We could save some money in case of potential setbacks.
+1 No, acquire weapons with it.
+E F+0 C+0 A+2 M-1 Q0
+2 Why not, we may need it later.
+F F+0 C+0 A+0 M+2 Q0

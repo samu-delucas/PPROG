@@ -1,0 +1,6 @@
+P Jefa de Investigación
+Q Hemos encontrado un grupo de abejas que hace operaciones sin su permiso. Podríamos poner orden, pero podrían ser útiles si les dejamos hacer.
+1 Desmantelen el grupo. La tranquilidad de los ciudadanos va primero.
+E F+0 C+2 A+3 M+0 Q0
+2 Déjenles hacer. Confío que algo bueno saldrá de esto.
+F F+0 C-2 A-2 M+0 Q1

@@ -1,0 +1,6 @@
+P Minister of Social Affairs
+Q Citizens are outraged by the harsh law enforcement by police. Perhaps we need to take measures.
+1 Defund the police and redistribute it to social work.
+E F+0 C+2 A-2 M+0 Q0
+2 Law enforcement as it is is just.
+F F+0 C-2 A+2 M+0 Q0

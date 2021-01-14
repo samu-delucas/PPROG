@@ -1,0 +1,6 @@
+P Jefe del Ejército Sánchez
+Q Siento tener que darte las noticias, pero la planta carnívora ya ha aniquilado a un quinto de los investigadores que intentaban estudiarla. Necesitamos tomar acción.
+1 NO... la planta debe permanecer viva. Evacuad toda la zona
+E F+0 C-4 A-4 M-4 Q0
+2 Hacer todo lo necesario, incluso si es inabejil. Inhumano como dirían otros.
+F F+0 C+2 A-2 M-2 Q0

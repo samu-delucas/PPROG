@@ -1,0 +1,7 @@
+P Jefa de Seguridad
+Q Las abejas del ala norte de la colmena aseguran que vuelve a haber plagas.
+1 ¡Imposible! Seguro que se lo están inventando.
+E F+0 C-1 A+0 M+0 Q0
+2 Yo les creo, ocúpense de eso.
+F F+0 C+1 A-2 M+0 Q0
+

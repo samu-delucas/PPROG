@@ -1,0 +1,6 @@
+P Explorer Bee
+Q Bad news, there's been irreperable damage done to the surrounding areas of the site, and it far outweighs the riches.
+1 It was too risky.
+E F-2 C-2 A+0 M-2 Q0
+2 Sometimes you lose like that.
+F F-2 C-2 A+0 M-2 Q2

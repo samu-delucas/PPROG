@@ -1,0 +1,6 @@
+P Explorer Bee
+Q We've found a stash of treasure in the ground, below a suburban area. Extracting it may be risky, though it might be worth it.
+1 Too risky.
+E F+0 C+1 A+0 M+0 Q0
+2 I approve it. Start digging!
+F F+0 C-1 A+0 M+0 Q2

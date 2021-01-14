@@ -1,0 +1,6 @@
+P Jefa de Investigación
+Q Una investigación sobre nuestra alimentación fue abortada por falta de personal. Muchos de los productos sobrantes no tienen a dónde ir.
+1 Distribuyan las sobras entre la población.
+E F+2 C+2 A+0 M+0 Q0
+2 Vendan esos productos a las empresas.
+F F+0 C-1 A+0 M+2 Q0

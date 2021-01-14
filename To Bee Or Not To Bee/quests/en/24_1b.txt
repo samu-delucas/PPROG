@@ -1,0 +1,6 @@
+P Minister of Social Affairs
+Q My Queen, we've taken too long and everybody has found out about our illegal schemes. We've not discovered anything and we're corrupt in their eyes.
+1 It was a risk I was ready to take.
+E F-2 C-2 A-2 M-2 Q0
+2 I never should've risked it.
+F F-2 C-2 A-2 M-2 Q0

@@ -1,0 +1,4 @@
+T Novice:
+D Complete one game
+C 0
+Z 1

@@ -1,0 +1,6 @@
+P Chief of Investigations Díaz
+Q We have done some research on the carnivorous plants... What we've found until now is not alarming. But it could help us with biochemical weapons...
+1 You have my consent.
+E F+0 C+0 A+4 M-3 Q0
+2 No way. Neutralise it immediately.
+F F+0 C+0 A-2 M+1 Q0

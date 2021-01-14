@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q Hemos hecho balance del ataque de los pájaros y hemos perdido algunos hombres y bastante comida. 
+1 Nos prepararemos mejor la próxima vez.
+E F-3 C-1 A-1 M+0 Q0
+2 ¡Malditos pájaros!
+F F-3 C-1 A-1 M+0 Q0

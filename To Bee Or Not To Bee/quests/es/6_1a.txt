@@ -1,0 +1,6 @@
+P Consejera Mayor del Reino
+Q Las hormigas reclaman más dinero por la ayuda que nos prestaron.
+1 Entregadles lo que piden.
+E F+0 C+0 A+0 M-1 Q0
+2 Andamos escasos de dinero. Entregadles comida en su lugar.
+F F-2 C-1 A+0 M+2 Q0

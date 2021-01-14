@@ -1,0 +1,6 @@
+P Head of Military
+Q Your Highness, we should hire mercenaries to strengthen our Army.
+1 We need to save money.
+E F+0 C+0 A-2 M+2 Q0
+2 Yes, we'll make our Army better.
+F F+0 C+0 A+2 M-2 Q0

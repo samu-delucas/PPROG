@@ -1,0 +1,6 @@
+P Head of the Military
+Q My Queen, diplomacy with the Ants of the West that caused us so many losses is impossible! In spite of the upsides, we should stand our ground.
+1 I understand your frustration, I'll take the Army's side.
+E F-1 C+0 A+3 M-2 Q0
+2 No! Diplomacy to ensure peace always comes first!
+F F+1 C+0 A-2 M+1 Q0

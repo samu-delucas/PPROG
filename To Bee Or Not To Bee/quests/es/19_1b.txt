@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q La expedición no ha salido como pensábamos. Hemos conseguido comida, pero hemos perdido bastante gente.
+1 Por lo menos lo han intentado.
+E F+3 C-0 A-2 M+0 Q0
+2 Al menos ahora tenemos comida.
+F F+3 C-0 A-2 M+0 Q0

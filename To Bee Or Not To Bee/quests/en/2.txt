@@ -1,0 +1,6 @@
+P Head of Security
+Q A big abandoned hive may be on the verge of collapsing, and it may cause damage to other bees.
+1 Let the military take care of it.
+E F+0 C+1 A-2 M+0 Q0
+2 Hire a special team for the job.
+F F+0 C+1 A+0 M-2 Q0

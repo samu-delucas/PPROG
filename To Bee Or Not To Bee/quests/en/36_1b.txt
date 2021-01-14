@@ -1,0 +1,6 @@
+P Head of Security
+Q The attack maneuver was a failure! The Army has really suffered and the outcome has been a disaster.
+1 We need to repair and gain back what's been lost.
+E F-1 C-2 A-3 M-1 Q0
+2 Perhaps the safer bet was the best option.
+F F-1 C-2 A-3 M-1 Q0

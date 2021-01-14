@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q Malas noticias, hemos hecho un daño irreparable a las áreas que rodean la mina, y son mucho peores que las ganancias.
+1 Era demasiado arriesgado.
+E F-2 C-2 A+0 M-2 Q0
+2 A veces se pierde.
+F F-2 C-2 A+0 M-2 Q2

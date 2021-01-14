@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q Nuestro ejército cada vez tiene menos soldados. Deberíamos promover el reclutamiento de jóvenes.
+1 No podemos hacer eso.
+E F+0 C+2 A-2 M+0 Q0
+2 Estoy de acuerdo.
+F F+0 C-3 A+2 M+0 Q0

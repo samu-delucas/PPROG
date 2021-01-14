@@ -1,0 +1,6 @@
+P Consejera Mayor del Reino
+Q Mi Reina, los cuidadanos desea celebrar un baile, ¡para subir la moral! Han estado trbajando duro.
+1 ¡Hecho! Podemos permitírnoslo.
+E F-1 C+2 A+0 M-2 Q0
+2 Espero que comprendan que no podemos permitírnoslo.
+F F+0 C-2 A+0 M+2 Q0

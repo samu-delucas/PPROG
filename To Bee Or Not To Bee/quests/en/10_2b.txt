@@ -1,0 +1,6 @@
+P Chief of Investigations
+Q The serum was a disaster. Side effects have been really damaging.
+1 I should've never authorised the experiment.
+E F+0 C-2 A+0 M+0 Q0
+2 It was too risky to try out.
+F F+0 C-2 A+0 M+0 Q0

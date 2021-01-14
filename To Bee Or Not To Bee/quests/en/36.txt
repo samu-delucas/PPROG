@@ -1,0 +1,6 @@
+P Head Of Security
+Q A sudden wasp invasion terrorizes the Queendom! A solid defense is safer, but a risky attack strategy may be what we need.
+1 We must be on the offensive, we must take a risk here
+E F+0 C-2 A+2 M+0 Q2
+2 We must be on the defensive, even if we suffer some losses it's the safest bet.
+F F+0 C+2 A-1 M+0 Q1

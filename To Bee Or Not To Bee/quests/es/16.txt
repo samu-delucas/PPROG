@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q Nuestros soldados se pasan el día sin hacer nada. Solo comen y duermen.
+1 Deberíamos bajarles el sueldo.
+E F+0 C+0 A-2 M+1 Q0
+2 Seguro que se les pasará.
+F F+0 C+0 A+0 M+0 Q0

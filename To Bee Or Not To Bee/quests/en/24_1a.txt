@@ -1,0 +1,6 @@
+P Minister of Social Affairs
+Q The interrogation has paid off, we've uncovered the ilegal scheme. We're heroes in the eyes of everybody.
+1 I never doubted my team.
+E F+2 C+2 A+2 M+2 Q0
+2 I'm happy, but we broke the law. It could've ended really badly.
+F F+2 C+2 A+2 M+2 Q0

@@ -1,0 +1,4 @@
+T Con hambre:
+D Muere por falta de Comida por primera vez
+C 0
+Z 1

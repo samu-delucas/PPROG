@@ -1,0 +1,7 @@
+P Ministra de Asuntos Sociales
+Q Mi Reina, hay muchas familias de los barrios pobres que apenas tienen para comer.
+1 Denles de nuestras reservas.
+E F-1 C+1 A+0 M+0 Q0
+2 ¡Que se las apañen!
+F F+1 C-2 A+0 M+0 Q0
+

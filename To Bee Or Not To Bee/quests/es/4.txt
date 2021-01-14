@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q Nuestro comité de investigación sospecha que una bandada de pájaros podría atacar la colmena.
+1 Defiendan la sala del trono.
+E F+0 C-2 A-1 M+0 Q3
+2 Defiendan a los civiles.
+F F+0 C+1 A-2 M+0 Q2

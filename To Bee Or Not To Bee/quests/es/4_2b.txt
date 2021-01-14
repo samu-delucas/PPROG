@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q Hemos hecho balance del ataque de los pájaros y hemos perdido bastante comida.
+1 Necesitamos reforzar las defensas para la próxima vez.
+E F-3 C+0 A+0 M+0 Q0
+2 Bueno, lo importante es que la gente ya está a salvo.
+F F-3 C+1 A+0 M+0 Q0

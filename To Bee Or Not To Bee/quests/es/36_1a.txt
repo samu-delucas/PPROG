@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q ¡La estrategia de ataque fue un éxito! Pudimos beneficiarnos de la batalla abundantemente.
+1 Todo gracias a Mi Ejército.
+E F+2 C+2 A+2 M+2 Q0
+2 Perseguir la gloria dio sus frutos.
+F F+2 C+2 A+2 M+2 Q0

@@ -1,0 +1,6 @@
+P Maid
+Q This morning I found a letter in my room. I wonder who left it there.
+1 I'm sure it's just a prank.
+E F+0 C+0 A+0 M+0 Q0
+2 Huh, I wonder that too.
+F F+0 C+0 A+0 M+0 Q0

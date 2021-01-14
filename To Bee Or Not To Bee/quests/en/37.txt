@@ -1,0 +1,6 @@
+P Prime Minister of the Queendom
+Q My Queen, the people want to celebrate a dance, to raise morale! They have been working hard.
+1 Let them! We can afford it.
+E F-1 C+2 A+0 M-2 Q0
+2 I hope they understand that we can't afford it.
+F F+0 C-2 A+0 M+2 Q0

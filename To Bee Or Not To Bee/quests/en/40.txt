@@ -1,0 +1,6 @@
+P Minister of Social Affairs
+Q There's a famine problem among us. Address it might costs us a bit, but citizens would appreciate it.
+1 We're strong enough to address the crisis.
+E F-1 C+2 A+0 M-1 Q0
+2 We must wait for a better chance.
+F F+1 C-2 A+0 M+1 Q0

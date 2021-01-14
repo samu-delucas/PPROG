@@ -1,0 +1,6 @@
+P Minister Of Finance
+Q My Queen, we should reduce the money that goes to the Army, to save up a bit.
+1 You're right.
+E F+0 C+0 A-2 M+3 Q0
+2 Not now.
+F F+0 C+0 A+3 M-2 Q0

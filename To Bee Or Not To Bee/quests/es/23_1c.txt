@@ -1,0 +1,6 @@
+P Jefe de Investigación Díaz
+Q Hemos investigado sobre las plantas mutantes... Lo que hemos encontrado hasta el momento no es alarmante. Pero podría ayudarnos a crear armas bioquímicas en secreto...
+1 Teneis mi consentimiento.
+E F+0 C+0 A+4 M-3 Q0
+2 Ni hablar. Aniquiladlo de inmediato.
+F F+0 C+0 A-2 M+1 Q0

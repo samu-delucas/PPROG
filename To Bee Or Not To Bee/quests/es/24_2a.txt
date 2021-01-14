@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q Mi Reina, nada sospechoso han hecho los detenidos que dejamos ir. Me temo que el caso de pasaportes falsificados quedará sin descubrirse.
+1 No me arrepiento, la ley es la ley.
+E F+0 C+0 A+0 M+0 Q0
+2 Me pregunto qué habría pasado si hubiésemos realizado las interrogaciones.
+F F+0 C+0 A+0 M+0 Q0

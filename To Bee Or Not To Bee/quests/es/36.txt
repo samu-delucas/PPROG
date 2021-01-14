@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q ¡Una repentina invasión de avispas amenaza el Reino! Una sólida defensa es más seguro, pero una arriesgada maniobra de ataque podría ser lo que necesitamos.
+1 Apuesto por reforzar el ataque, debemos arriesgarnos.
+E F+0 C-2 A+2 M+0 Q2
+2 Apuesto por reforzar la defensa, a pesar de soportar algunas pérdidas es lo más seguro.
+F F+0 C+2 A-1 M+0 Q1

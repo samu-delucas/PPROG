@@ -1,0 +1,6 @@
+P Ministra de Economía
+Q Hemos hecho balance del ataque de Winnie The Pooh. Se ha comido casi todo de nuestra comida. Los soldados murieron defendiendo la colmena.
+1 Aseguraos de que sus familias estén bien y dadles todo el apoyo que necesiten.
+E F-5 C+2 A+0 M-1 Q0
+2 ¡Reforzad nuestras defensas!
+F F-5 C+0 A+2 M-2 Q0

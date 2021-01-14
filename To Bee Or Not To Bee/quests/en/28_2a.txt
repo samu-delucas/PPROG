@@ -1,0 +1,6 @@
+P Chief of Investigations
+Q The group we let go gave us plenty of money in return for Your kindness!
+1 Keep the money.
+E F+0 C+0 A+0 M+4 Q0
+2 Invest it in food supply.
+F F+3 C+1 A+0 M+0 Q0

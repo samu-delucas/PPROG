@@ -1,0 +1,4 @@
+T Glotona:
+D Muere por falta de Comida 10 veces
+C 0
+Z 10

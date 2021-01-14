@@ -1,0 +1,6 @@
+P Head of Military
+Q Your Highness, one of my best bees has been arrested for... inappropriate conduct. I trust we can reach an agreement on her punishment...
+1 We all are equal to the law
+E F+0 C+2 A-2 M+0 Q0
+2 We can't risk the military suffering. I accept.
+F F+0 C-4 A+3 M+3 Q0

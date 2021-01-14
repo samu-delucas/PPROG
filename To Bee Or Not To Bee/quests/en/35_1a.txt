@@ -1,0 +1,6 @@
+P Maid
+Q Your Highness, the bizarre bee disappeared! Her Fortune is mild, but still there.
+1 At least we got something out of it.
+E F+1 C+1 A+1 M+1 Q0
+2 I shouldn't have tried my luck.
+F F+1 C+1 A+1 M+1 Q0

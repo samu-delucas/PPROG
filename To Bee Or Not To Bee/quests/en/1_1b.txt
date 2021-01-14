@@ -1,0 +1,7 @@
+P Jefa de investigación
+Q Everything went wrong. The research with pollen seeds has used up part of the food supply.
+1 I shouldn't have authorised the experiment.
+E F-2 C-1 A+0 M+0 Q0
+2 I hope we can survive with what we have left.
+F F-2 C-1 A+0 M+0 Q0 
+ 

@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q En la estación abejil de Melilla abundan pasaportes falsificados. Hemos detenido a varios. Podríamos arriesgarnos y conducir interrogaciones ilegales que nos lleven al fondo del asunto.
+1 Interrogadlos. Es arriesgado, pero esta amenaza necesita ser neutralizada.
+E F+0 C+0 A+0 M+0 Q2
+2 Dejad que se vayan, no estoy por encima de la ley.
+F F+0 C+0 A+0 M+0 Q1

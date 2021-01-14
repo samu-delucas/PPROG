@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q He encontrado territorio virgen. Hay grandes cantidades de miel plateada.
+1 ¡Somos ricos!
+E F+2 C+2 A+2 M+2 Q0
+2 ¡¡Soy rica!!
+F F+0 C+0 A+0 M+6 Q0

@@ -1,0 +1,4 @@
+T Glutton:
+D Die due to lack of Food 10 times
+C 0
+Z 10

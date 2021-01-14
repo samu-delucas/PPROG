@@ -1,0 +1,6 @@
+P Head of Security
+Q The attack maneuver was a success! We could abundantly benefit from the battle. 
+1 All thanks to My Army.
+E F+2 C+2 A+2 M+2 Q0
+2 Reaching for glory paid off.
+F F+2 C+2 A+2 M+2 Q0

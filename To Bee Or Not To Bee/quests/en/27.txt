@@ -1,0 +1,6 @@
+P Minister of Finance
+Q Tough times are upon us. The food reserves are scarce, though we should save money in case of emergencies.
+1 Prioritise the food reserves.
+E F+2 C+1 A+0 M-2 Q0
+2 Prioritise the money.
+F F-3 C+0 A+0 M+3 Q0

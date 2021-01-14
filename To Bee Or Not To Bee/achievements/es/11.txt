@@ -1,0 +1,4 @@
+T Conflicto:
+D Muere por falta de lealtad a tu Armada por primera vez
+C 0
+Z 1

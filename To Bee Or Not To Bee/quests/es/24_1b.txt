@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q Mi Reina, hemos tardado demasiado tiempo y la gente se ha enterado de nuestras maniobras ilegales. No hemos descubierto nada y somos corruptos a sus ojos.
+1 Era un riesgo que estaba dispuesta a asumir.
+E F-2 C-2 A-2 M-2 Q0
+2 Nunca debí haberme arriesgado.
+F F-2 C-2 A-2 M-2 Q0

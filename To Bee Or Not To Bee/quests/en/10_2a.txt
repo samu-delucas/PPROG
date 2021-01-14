@@ -1,0 +1,6 @@
+P Chief of Investigations
+Q The serum has worked brilliantly, this week all bees have worked double the normal amount, obtaining much more resources. They're all really tired now, so we've decided not to use it any longer.
+1 Good idea.
+E F+2 C-1 A+2 M+2 Q0
+2 Perfect, I trust your judgment.
+F F+2 C-1 A+2 M+2 Q0

@@ -1,0 +1,6 @@
+P Jefa de Investigación
+Q ¡Lo conseguimos! Los granos de polen modificados son un éxito. Estoy segura de que tendremos menos preocupaciones por la comida cuando llegue este invierno.
+1 ¡Eso son fantásticas noticias!
+E F+3 C+1 A+0 M+0 Q0
+2 Genial, te mereces un aumento de sueldo.
+F F+3 C+1 A+0 M-1 Q0 

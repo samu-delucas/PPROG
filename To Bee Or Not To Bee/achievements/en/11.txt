@@ -1,0 +1,4 @@
+T Conflict:
+D Die due to lack of Army support for the first time
+C 0
+Z 1

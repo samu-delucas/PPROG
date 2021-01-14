@@ -1,0 +1,6 @@
+P Minister of Finance
+Q We've made a recount after Winnie The Pooh. He's eaten almost all our food. Soldiers died protecting th hive.
+1 Make sure that their families are fine and give them all the support they need.
+E F-5 C+2 A+0 M-1 Q0
+2 Reforce our defenses!
+F F-5 C+0 A+2 M-2 Q0

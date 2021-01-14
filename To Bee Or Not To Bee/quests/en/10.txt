@@ -1,0 +1,6 @@
+P Chief of Investigations
+Q Our team has developed a serum that would allow all bees to work for longer. Should we try it?
+1 Sounds dangerous.
+E F-1 C+2 A+0 M+0 Q0
+2 Yes, we'll improve our output this way.
+F F+2 C-1 A+0 M+0 Q1

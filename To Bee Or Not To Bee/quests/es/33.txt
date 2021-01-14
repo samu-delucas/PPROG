@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q Hay colectivos de abejas que demandan una bajada de impuestos. ¿Qué debemos hacer?
+1 No es una buena idea.
+E F+0 C-2 A+0 M+2 Q0
+2 Todo por mi gente.
+F F+0 C+2 A+0 M-2 Q0

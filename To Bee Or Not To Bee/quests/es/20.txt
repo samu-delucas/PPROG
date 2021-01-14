@@ -1,0 +1,6 @@
+P Jefa del Ejército
+Q Nuestro armamento actual sería ineficaz en una guerra abierta como la de las Colmenas del Este. ¿Tenemos permiso para construir armas nucleares?
+1 Por supuesto. Es lo mejor.
+E F+0 C-1 A+2 M-2 Q1
+2 Ni de broma, es demasiado peligroso.
+F F+0 C+2 A-1 M+0 Q0

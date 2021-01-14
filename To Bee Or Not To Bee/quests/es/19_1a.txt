@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q Estamos de vuelta de la expedición. ¡Ha sido todo un éxito! Ahora tenemos mucha más comida. Esto es fantástico!
+1 Te dije que buscaría a los mejores.
+E F+4 C+1 A+0 M+0 Q0
+2 ¡Fantástico, hagamos un banquete para celebrarlo!
+F F+2 C+2 A+0 M-1 Q0

@@ -1,0 +1,4 @@
+T Arruinar:
+D Muere por falta de Dinero 10 veces
+C 0
+Z 10

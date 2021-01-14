@@ -1,0 +1,6 @@
+P Criada
+Q Es la hora del té. ¿Desea algo?
+1 Trae mi jalea real.
+E F+0 C+0 A+0 M+0 Q0
+2 ¿Tienes galletitas?
+F F+0 C+0 A+0 M+0 Q0

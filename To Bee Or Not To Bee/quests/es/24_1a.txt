@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q La interrogación ha dado sus frutos, hemos destapado la red ilegal. Somos héroes a ojos de todos.
+1 Nunca dudé de mi equipo.
+E F+2 C+2 A+2 M+2 Q0
+2 Estoy contenta, pero rompimos la ley. Pudo haber salido muy mal.
+F F+2 C+2 A+2 M+2 Q0

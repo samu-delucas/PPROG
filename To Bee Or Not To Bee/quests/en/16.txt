@@ -1,0 +1,6 @@
+P Head of Security.
+Q Our soldiers spend all day doing nothing, eating and sleeping.
+1 We should lower their salary.
+E F+0 C+0 A-2 M+1 Q0
+2 I'm sure they'll come around.
+F F+0 C+0 A+0 M+0 Q0

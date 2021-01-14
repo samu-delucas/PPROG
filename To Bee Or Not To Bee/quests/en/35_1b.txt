@@ -1,0 +1,6 @@
+P Maid
+Q Your Highness, the bizarre bee disappeared! Her Fortune is plenty, thank God!
+1 At least it payed out in the end.
+E F+3 C+3 A+3 M+3 Q0
+2 Fortune was on my side, as it should.
+F F+3 C+3 A+3 M+3 Q0

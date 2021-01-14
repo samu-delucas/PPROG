@@ -1,0 +1,4 @@
+T Perder:
+D Muere por falta de Dinero por primera vez
+C 0
+Z 1

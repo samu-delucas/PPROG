@@ -1,0 +1,6 @@
+P Chief of Investigations 
+Q We've found a group of bees that runs operations without Your permission. We could ensure order is kept, but they may be useful if we let them be.
+1 Dismatle the group. The people's security go first.
+E F+0 C+2 A+3 M+0 Q0
+2 Let them be. I trust something good will come out of this.
+F F+0 C-2 A-2 M+0 Q1

@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q Una gran colmena abandonada parece estar a punto de derrumbarse, pudiendo ocasionar daños a otras abejas.
+1 Que se encargue el ejército.
+E F+0 C+1 A-2 M+0 Q0
+2 Contratad un equipo especial para ello.
+F F+0 C+1 A+0 M-2 Q0

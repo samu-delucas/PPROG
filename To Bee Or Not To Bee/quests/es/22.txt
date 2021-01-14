@@ -1,0 +1,6 @@
+P Secretaria Personal
+Q La próxima semana es tu cumpleaños. ¿Lo celebramos a lo grande?
+1 Síí, ¡fiesta!
+E F+1 C+1 A+0 M-2 Q0
+2 No, es un derroche
+F F+0 C-1 A+0 M+1 Q0

@@ -1,0 +1,6 @@
+P Protectora del Medio Ambiente
+Q Maldita sea, puedes oler el humo de las ciudades y las fábricas desde aquí. Nos están arruinando las plantas. ¡Deberíamos hacer algo!
+1 Nuestras plantas aguantarán
+E F-1 C+0 A+0 M+0 Q0
+2 Veré qué podemos hacer.
+F F+2 C+0 A+0 M-1 Q0

@@ -1,0 +1,6 @@
+P Explorer Bee
+Q A battle against the Wasps of the South might be crucial for you. Should we send food to ensure the Army's well-being?
+1 We can't afford it
+E F+1 C+0 A-2 M+0 Q0
+2 My Army needs it
+F F-3 C+0 A+4 M+0 Q0

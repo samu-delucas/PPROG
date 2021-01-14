@@ -1,0 +1,6 @@
+P Prime Minister of the Queendom
+Q Laws are a bit outdated, and civilians ask for a change.
+1 We'll discuss a change when possible.
+E F+0 C+1 A+0 M-1 Q0
+2 No need, I think they're fine as they are right now.
+F F+0 C-1 A+0 M+1 Q0

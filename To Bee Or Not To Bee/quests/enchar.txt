@@ -1,0 +1,28 @@
+Maid
+0 1 1 0
+Chief of Investigations
+2 0 1 1
+Head of Security
+2 2 1 2
+Minister of Finance
+1 2 2 3
+Prime Minister of the Queendom
+0 1 1 3
+Minister of Social Affairs
+1 1 1 1
+Head of the Military
+1 2 1 2
+Environmental Advocate
+0 1 0 1
+Explorer Bee
+2 0 0 2
+Personal Secretary
+1 1 1 2
+Chief of Investigations Díaz
+2 1 0 3
+Dylan
+2 0 2 3
+Military Chief Sánchez
+2 2 2 4
+Weird Kiddo
+0 0 0 5

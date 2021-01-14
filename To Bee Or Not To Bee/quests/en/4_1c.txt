@@ -1,0 +1,6 @@
+P Head of Security
+Q We've done a recount after the bird attack. Defenses worked perfectly. 
+1 Such good news, let's throw a feast to celebrate!
+E F-1 C+1 A+0 M+0 Q0
+2 I commend you for a job well done.
+F F+0 C+1 A+0 M+0 Q0

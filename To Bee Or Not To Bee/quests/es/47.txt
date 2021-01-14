@@ -1,0 +1,6 @@
+P Protectora del Medio Ambiente
+Q Mi Reina, para asegurar la protección de los ecosistemas en los que vivimos necesitamos subir los impuestos.
+1 Hazlo, lo necesitamos
+E F+2 C-2 A-1 M+1 Q0
+2 No nos lo podemos permitir.
+F F-2 C+2 A+1 M-1 Q0

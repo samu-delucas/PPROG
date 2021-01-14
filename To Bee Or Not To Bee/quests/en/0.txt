@@ -1,0 +1,6 @@
+P Maid
+Q Oh, I see it is your first time. I'm the maid, and I will come from time to time to see if you need something. You can select an option with the arrow keys and 'ENTER', and press 'Q' at any time to return to the menu. Good luck!!! 
+1 Here we go!!
+E F+0 C+0 A+0 M+0 Q0
+2 Let's do this!!
+F F+0 C+0 A+0 M+0 Q0

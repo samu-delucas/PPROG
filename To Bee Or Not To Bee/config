@@ -1,0 +1,8 @@
+#Language (0 = english; 1 = spanish)
+L 1
+
+#Number of available quests
+N 51
+
+#Has the game been played? (For the intro quest) (0 = no; 1 = yes)
+F 0

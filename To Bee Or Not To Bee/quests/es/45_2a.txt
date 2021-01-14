@@ -1,0 +1,6 @@
+P Abeja Exploradora
+Q Buenas noticias, las ganancias de la mina son mucho mayores que la excavación.
+1 Gracias a dios que fue bien.
+E F+2 C+2 A+0 M+2 Q0
+2 ¡Por supuesto que fue bien!
+F F+2 C+2 A+0 M+2 Q2

@@ -1,0 +1,6 @@
+P Personal Secretary
+Q Next week is your birthday. Shall we celebrate a big party?
+1 Yass, partay!
+E F+1 C+1 A+0 M-2 Q0
+2 No, it's a waste of money.
+F F+0 C-1 A+0 M+1 Q0

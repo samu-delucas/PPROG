@@ -1,0 +1,6 @@
+P Jefa de Investigación
+Q El suero ha funcionado a la perfección, esta semana las abejas han trabajado el doble, consiguiendo muchos más recursos. Aún así están muy cansadas, por lo que hemos decidido no utilizarlo maś.
+1 Me parece buena idea.
+E F+2 C-1 A+2 M+2 Q0
+2 Perfecto, confío en su decisión.
+F F+2 C-1 A+2 M+2 Q0

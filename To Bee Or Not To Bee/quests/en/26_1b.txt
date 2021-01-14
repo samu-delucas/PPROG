@@ -1,0 +1,6 @@
+P Maid
+Q I just checked the other day's gamble. Fortune herself is on your side, My Queen! The winnings are plentiful!
+1 I feel a bit more blessed than before.
+E F+3 C+3 A+3 M+3 Q0
+2 I never doubted my power.
+F F+3 C+3 A+3 M+3 Q0

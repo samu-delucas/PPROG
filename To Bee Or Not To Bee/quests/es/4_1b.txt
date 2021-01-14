@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q Al final los pájaros no atacaron, pero la gente sigue resentida por haber defendido solamente la sala del trono.
+1 No me importa, yo soy más valiosa.
+E F+0 C-1 A+0 M+0 Q0
+2 Sí, fue una mala decisión.
+F F+0 C+1 A+0 M+0 Q0

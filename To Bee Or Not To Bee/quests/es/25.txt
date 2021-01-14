@@ -1,0 +1,6 @@
+P Jefa del Ejército
+Q Mi reina, hemos capturado a combatientes del Reino del Norte que han cometido verdaderas atrocidades. Una ejecución pública es conveniente.
+1 Una muestra simbólica de sangre es necesaria de vez en cuando.
+E F+0 C-3 A+3 M+0 Q0
+2 ¡Sería algo barbárico!
+F F+0 C+2 A-1 M+0 Q0

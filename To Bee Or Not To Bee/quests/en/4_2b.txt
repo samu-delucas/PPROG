@@ -1,0 +1,6 @@
+P Head of Security
+Q We've done a recount after the bird attack. We've lost a lot of food.
+1 We must strenghten our defenses for next time.
+E F-3 C+0 A+0 M+0 Q0
+2 Nevermind that, that civilians are safe is what matters.
+F F-3 C+1 A+0 M+0 Q0

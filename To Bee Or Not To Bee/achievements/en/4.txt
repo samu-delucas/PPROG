@@ -1,0 +1,4 @@
+T Expert:
+D Complete 50 games
+C 0
+Z 50

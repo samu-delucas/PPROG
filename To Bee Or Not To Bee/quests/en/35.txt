@@ -1,0 +1,6 @@
+P Maid
+Q A bizarre bee has appeared, saying that if we feed her enough, she'll bring Fortune to Your Queendom.
+1 I'm curious to see what happens.
+E F-4 C+0 A+0 M+0 Q2
+2 Too risky right now.
+F F+0 C+0 A+0 M+0 Q0

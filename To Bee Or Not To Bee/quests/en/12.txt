@@ -1,0 +1,7 @@
+P Maid
+Q I've discovered that the Chief of Investigations and one of the drones habitually meet alone.
+1 I'm sure it's work-related.
+E F+0 C+0 A+0 M+0 Q0
+2 Clearly they... like each other.
+F F+0 C+0 A+0 M+0 Q0
+

@@ -1,0 +1,6 @@
+P Minister of Social Affairs
+Q In the bee station of Melilla there's plenty of falsified passports. We have detained several bees. We can risk conducting illegal interrogations that help us crack open the case.
+1 Interrogate them. It's risky, but this needs to be dealt with.
+E F+0 C+0 A+0 M+0 Q2
+2 Let them go, we're not above the law.
+F F+0 C+0 A+0 M+0 Q1

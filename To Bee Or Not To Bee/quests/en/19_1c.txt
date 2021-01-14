@@ -1,0 +1,6 @@
+P Explorer Bee
+Q We're back from the quest. It was a complete failure. Not as much supply was found and we've lost a lot of bees because of it.
+1 Be more careful next time.
+E F+1 C-2 A-2 M+0 Q0
+2 At least we found some food.
+F F+1 C-2 A-2 M+0 Q0

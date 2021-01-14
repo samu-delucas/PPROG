@@ -1,0 +1,4 @@
+T Against the Crown:
+D Die due to lack of Civilian support for the first time
+C 0
+Z 1

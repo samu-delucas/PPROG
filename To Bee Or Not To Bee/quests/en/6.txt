@@ -1,0 +1,6 @@
+P Prime Minister of the Queendom
+Q This year crops haven't been plenty, we could ask the ants for help.
+1 Reach out to them.
+E F+2 C+1 A-1 M-1 Q1
+2 We mustn't be in debt with anybdy.
+F F-2 C-1 A+0 M+2 Q0

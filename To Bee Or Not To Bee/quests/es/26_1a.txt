@@ -1,0 +1,6 @@
+P Criada
+Q La apuesta de hace unos días no fue a su favor. Ni la Reina puede escapar de la desdicha de la Fortuna.
+1 Comprendí los riesgos que implicaba, y lo acepto con elegancia.
+E F-1 C-1 A-1 M-1 Q0
+2 Si me fuera posible ejecutaría a la propia Fortuna. ¡Maldición!
+F F-1 C-1 A-1 M-1 Q0

@@ -1,0 +1,6 @@
+P Military Chief Sánchez
+Q We shouldn't have hidden the plant from the press. It has spread massively and now it surrounds the castle. There's nothing we can do.
+1 What????
+E F-15 C-15 A-15 M-15 Q0
+2 CTRL + Z ?
+F F-15 C-15 A-15 M-15 Q0

@@ -1,0 +1,6 @@
+P Jefe del Ejército Sánchez
+Q No deberíamos haber ocultado las plantas mutantes a la prensa. Se propagaron y han rodeado el palacio. No hay nada que hacer.
+1 ¿Qué?
+E F-15 C-15 A-15 M-15 Q0
+2 ¿CTRL + Z? 
+F F-15 C-15 A-15 M-15 Q0

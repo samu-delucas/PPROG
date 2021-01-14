@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q ¡La estrategia de ataque fue un fracaso! El Ejército ha salido tremendamente magullado y perdimos varias reservas.
+1 Necesitamos reparar y recuperar lo perdido.
+E F-1 C-2 A-3 M-1 Q0
+2 Tal vez la apuesta segura fue la mejor opción.
+F F-1 C-2 A-3 M-1 Q0

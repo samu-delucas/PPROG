@@ -1,0 +1,6 @@
+P Minister of Finance
+Q We believe that investigating the body of Winnie The Pooh could help us develop new and improved weapons against their kin.
+1 Let's get to work.
+E F+0 C-1 A+2 M-2 Q0
+2 We aren't as vile as them.
+F F+0 C+2 A-1 M+0 Q0

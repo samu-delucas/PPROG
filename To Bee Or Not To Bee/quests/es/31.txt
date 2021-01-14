@@ -1,0 +1,6 @@
+P Consejera Mayor del Reino
+Q Deberíamos subir los impuestos. La gente so estará contenta pero lo necesitamos.
+1 Tienes razón. Necesitamos el dinero.
+E F+0 C-2 A+0 M+3 Q0
+2 No deberíamos.
+F F+0 C+2 A+0 M-2 Q0

@@ -1,0 +1,4 @@
+T Saciada:
+D Muere por falta de Comida 5 veces
+C 0
+Z 5

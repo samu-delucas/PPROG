@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q Hay una problema de hambrunas. Repararlo puede salir caro, pero los ciudadanos se lo agradecerían.
+1 Somos lo suficientemente fuertes para frontar esta crisis.
+E F-1 C+2 A+0 M-1 Q0
+2 Tenemos que esperar a un mejor momento.
+F F+1 C-2 A+0 M+1 Q0

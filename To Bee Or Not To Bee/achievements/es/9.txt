@@ -1,0 +1,4 @@
+T Dobla la Corona:
+D Muere por falta de lealtad a tu Pueblo 5 veces
+C 0
+Z 5

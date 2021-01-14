@@ -1,0 +1,6 @@
+P Jefa del Ejército
+Q Su Majestad, deberíamos contratar a mercenarios para reforzar nuestra Armada.
+1 Necesitamos ahorrar dinero.
+E F+0 C+0 A-2 M+2 Q0
+2 Sí, reforzemos nuestro Ejército.
+F F+0 C+0 A+2 M-2 Q0

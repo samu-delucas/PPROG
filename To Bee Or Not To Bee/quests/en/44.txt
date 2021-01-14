@@ -1,0 +1,6 @@
+P Prime Minister of the Queendom
+Q My Queen, some civil protest have turned quite violent. What should we do?
+1 Listen to them and work with it.
+E F+0 C+2 A-2 M+0 Q0
+2 Unacceptable! Maintaining order is mandatory.
+F F+0 C-2 A+2 M+0 Q0

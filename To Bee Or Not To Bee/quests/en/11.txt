@@ -1,0 +1,7 @@
+P Head of Security
+Q Bees from the north wing of the hive claim there's plagues again.
+1 Impossible! They must be lying.
+E F+0 C-1 A+0 M+0 Q0
+2 I believe them, take care of it.
+F F+0 C+1 A-2 M+0 Q0
+

@@ -1,0 +1,6 @@
+P Criada
+Q Su Majestad, ¿diría usted que Su Reino prioriza el dinero, o el bienestar del cuidadano?
+1 El dinero, sin duda.
+E F+0 C-2 A+0 M+2 Q0
+2 El bienestar del ciudadano, sin duda.
+F F+0 C+2 A+0 M-2 Q0

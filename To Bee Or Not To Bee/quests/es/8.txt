@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q Nos gustaría organizar una ceremonia conmemorativa en honor a las abejas caídas en la batalla contra las Colmenas del Este.
+1 Sí, fue una gran pérdida para nuestro ejército.
+E F+0 C+1 A+0 M-1 Q0
+2 No, debemos ahorrar.
+F F+0 C-2 A+0 M+1 Q0

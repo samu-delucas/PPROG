@@ -1,0 +1,6 @@
+P Criada
+Q He comprobado la apuesta que hizo el otro día. La Fortuna le sonríe, Mi Reina. ¡Las ganancias son abundantes!
+1 Me siento un poco más bendecida que antes.
+E F+3 C+3 A+3 M+3 Q0
+2 Nunca dudé de mi poder.
+F F+3 C+3 A+3 M+3 Q0

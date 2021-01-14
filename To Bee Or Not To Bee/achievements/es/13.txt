@@ -1,0 +1,4 @@
+T Guerra:
+D Muere por falta de lealtad a tu Armada 10 veces
+C 0
+Z 10

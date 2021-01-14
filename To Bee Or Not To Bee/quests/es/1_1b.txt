@@ -1,0 +1,7 @@
+P Jefa de Investigación
+Q Todo salió mal. Los experimentos con los granos de polen han acabado con parte de nuestras reservas de comida.
+1 No debería haber autorizado el experimento.
+E F-2 C-1 A+0 M+0 Q0
+2 Espero que podamos aguantar con lo que nos queda.
+F F-2 C-1 A+0 M+0 Q0 
+ 

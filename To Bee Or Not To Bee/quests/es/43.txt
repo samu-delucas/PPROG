@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q Los ciudadanos están furiosos con las fuerzas del orden por su dureza. Tal vez deberíamos tomar medidas.
+1 Corta el presupuesto de la policía y redistribúyelo.
+E F+0 C+2 A-2 M+0 Q0
+2 La polícia ya trabaja de manera justa.
+F F+0 C-2 A+2 M+0 Q0

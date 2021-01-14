@@ -1,0 +1,6 @@
+P Ministra de Economía
+Q Mi Reina, deberíamos reducir el dinero dirigido a la Armada para ahorrar un poco.
+1 Tienes razón.
+E F+0 C+0 A-2 M+3 Q0
+2 Ahora no.
+F F+0 C+0 A+3 M-2 Q0

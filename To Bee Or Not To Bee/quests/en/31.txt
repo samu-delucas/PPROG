@@ -1,0 +1,6 @@
+P Prime Minister Of The Queendom
+Q We should raise taxes. People won't be happy but we need it.
+1 You're, right. We need the money.
+E F+0 C-2 A+0 M+3 Q0
+2 We shouldn't
+F F+0 C+2 A+0 M-2 Q0

@@ -1,0 +1,6 @@
+P Jefa de Seguridad
+Q La estrategia de defensa dio los resultados esperados, y ahora debemos afrontar las pérdidas.
+1 Estoy agradecida por haber evitado un mal mayor.
+E F-1 C+0 A+0 M-1 Q0
+2 Debería haber luchado por una gloria mayor.
+F F-1 C+0 A+0 M-1 Q0

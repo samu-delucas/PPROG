@@ -1,0 +1,6 @@
+P Minister of Finance
+Q We've noticed unaccounted for extra money. What should we do with it?
+1 Keep it. We need it.
+E F+0 C-2 A-1 M+3 Q0
+2 Make good use of it.
+F F+0 C+1 A+1 M-2 Q0

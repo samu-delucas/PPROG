@@ -1,0 +1,4 @@
+T Rompe la Corona:
+D Muere por falta de lealtad a a tu Pueblo 10 veces
+C 0
+Z 10

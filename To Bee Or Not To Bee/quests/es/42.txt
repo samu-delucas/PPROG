@@ -1,0 +1,6 @@
+P Ministra de Asuntos Sociales
+Q Ciudadanos han comenzado a quejarse de que el Ejército está sobrecompensado. Hagamos lo que hagamos, debemos tomar un bando.
+1 Redistribuye parte del presupuesto de Ejército.
+E F+0 C+3 A-2 M+0 Q0
+2 Déjalo como está.
+F F+0 C-2 A+2 M-1 Q0
