@@ -1,0 +1,23 @@
+﻿Para poder abrir el candado deberás escribir un correo a la dirección que te informó del secuestro de tu hermano.
+
+AGENDA:
+ A:
+ - akalukas@gmail.com
+ - alcalino@outlook.es
+ B:
+ - borjamari@hospital.uam.es
+ E:
+ - elgrafo@gmail.com
+ - eljase@elpisofranco.com
+ - elsoria@elpisofranco.com
+ J:
+ - juanlu@hotmail.com
+ L:
+ - lautitica@hospital.uam.es
+ N:
+ - nerds@gmail.com
+ - nisro@hospital.uam.es
+ T:
+ - tuvi@hospital.uam.es
+
+Escribe las tres letras iniciales del correo electrónico correspondiente:

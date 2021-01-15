@@ -1,0 +1,19 @@
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│         La partida se guardará en el fichero 'game.save'           │
+│              Si el ya había una partida guardada se                │
+│                  sobreescribirá por la actual.                     │
+│                                                                    │
+│                                                                    │
+│          ¿Estás seguro de que quieres continuar? (y/n)             │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘

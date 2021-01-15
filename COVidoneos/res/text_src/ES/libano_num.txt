@@ -1,0 +1,3 @@
+Estos números siguen un orden, completa la serie sabiendo que los números están comprendidos entre 1 y 9.
+Introduce tu solución.
+

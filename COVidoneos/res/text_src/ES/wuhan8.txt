@@ -1,0 +1,4 @@
+Las puertas se han ordenado aleatoriamente.
+¿Qué puerta deseas elegir?
+
+Pulsa A para la azul, V para la verde y R para la roja.

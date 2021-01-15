@@ -1,0 +1,19 @@
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│         La partida se cargará desde el fichero 'game.save'         │
+│        Si hay una partida en curso, se perderá el progreso         │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│          ¿Estás seguro de que quieres continuar? (y/n)             │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
